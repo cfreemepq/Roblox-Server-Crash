@@ -44,5 +44,5 @@ for i = 1, tries do
 end
 end
 
-bomb(250, 2) --// change values if client crashes
+bomb(250, 2) --// change values if client crashes.
 end
